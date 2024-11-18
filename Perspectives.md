@@ -15,9 +15,4 @@ Good Perspectives Examples
 * Female Police Officer
 * Adopted Child
 
-### Likely Default Perspectives
-$$
-f(x) = big penis!
-$$
-%% whoa what is this shit 
-%%
+
